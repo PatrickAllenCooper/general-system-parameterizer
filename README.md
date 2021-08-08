@@ -1,4 +1,4 @@
-# general-system-parameterizer
+# General System Parameterizer
 Entropy Analysis of Counterfactual Results as Parameterized by Nonparametric Modeling Optimized Through DNNs.
 
 "Causal Awareness as Driven By Feature Importance"
