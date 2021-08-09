@@ -18,7 +18,7 @@ This is a general question which surely cannot be addressed fully within the con
 
 For MNIST we seek to make the model aware of its 
 
-# Personal Note by the Author
+# Note by the Author
 Empirical authority within the field of science is only relatively recent and somewhat illbegotent. Logical empiricism, or else, logical positivism had a burst of tyranical normality within the field of empiricism, only to collapse under its own weight and die a slow death by a thousand cuts. Today most everyone who is not aware of where they stand empirically likely stands where I stand, or close to it, in the strangely clinical world of scientific realism. The need to formalize knowledge may seem to stand against the newfound thesis of implicit association so often lauded by today's deep learning professionals, but it is necessary to disambiguate the distinction between what is implicit representation and explicit understanding. The fear of statements is not something to be feared, it's our currency as computer scientists and the preferred way we have elected to communicate.
 
 We begin with the thesis of gaussian noise. An impossible thesis except for maybe the heat death of the universe. We know nothing, and now we must change something and inject some notion into the darkness. Then we formulate an expectation based on this and further change the situation. It's bayesian isn't it? Exactly what we might expect. We know we have near complete knowledge when expectation and reality begin to coaless. This simple process obscures a great deal of understanding. Veiled by our own implicit understanding the situation is the process by which exploration is met by insight, and converted over to the general impression of utility.
