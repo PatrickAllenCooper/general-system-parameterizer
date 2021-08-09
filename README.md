@@ -8,6 +8,10 @@ Entropy Analysis of Counterfactual Results as Parameterized by Nonparametric Mod
 # Premise
 In the field of AI we often model phenomena with little ability to determine the casual importance of different features within the overall system. This is useful for solving over parameterized optimization problems, but a capability is missing. Is there a mechanism for characterizing a massively overparamterized problem (such as the outcome of large simulations) in a manner that allows for general metrics, insights and utilities, to be extracted from this model. Further, suppose such determinations are pulled from a simulation, are we then able to use them to grant the system awareness of the implications of its own results by feeding these acknowledgements back into the model in a form of fostered self awareness as the model trains.
 
+In other words, we seek to extend the existing understanding of bayesian distribution modeling using neural network of a variety of different architectures: (https://en.wikipedia.org/wiki/Bayesian_hierarchical_modeling).
+
+
+
 Doing so we hope the model will construct what can be characterized as general hypotheses about the data it has ingested and what the outcome will be.
 
 # Installation and Execution
@@ -19,6 +23,11 @@ We begin with an environment and we perform some run through through a temporall
 This is a general question which surely cannot be addressed fully within the confines of a single experiment or even a few experiments, but we will first seek to construct general awareness plots of the resulting entropy of the entire model and tie it back into the overall method. So, we begin, as much of deep learning does, with MNIST in all of its wonderous and frequently overfit glory.
 
 For MNIST we seek to make the model aware of its 
+
+# Hypotehsis
+These are predictions which have yet to be demonstrated formally:
+
+Increased probabilistic estimation can be used to reinforce existing predictions across a performance domains.
 
 # Note by the Author
 Empirical authority within the field of science is only relatively recent and somewhat illbegotent. Logical empiricism, or else, logical positivism had a burst of tyranical normality within the field of empiricism, only to collapse under its own weight and die a slow death by a thousand cuts. Today most everyone who is not aware of where they stand empirically likely stands where I stand, or close to it, in the strangely clinical world of scientific realism. The need to formalize knowledge may seem to stand against the newfound thesis of implicit association so often lauded by today's deep learning professionals, but it is necessary to disambiguate the distinction between what is implicit representation and explicit understanding. The fear of statements is not something to be feared, it's our currency as computer scientists and the preferred way we have elected to communicate.
