@@ -5,6 +5,8 @@ Entropy Analysis of Counterfactual Results as Parameterized by Nonparametric Mod
 
 "It is not his possession of knowledge, of irrefutable truth, that makes the man of science, but his persistent and recklessly critical quest for truth." - Karl Popper
 
+“The actuality of the learning process consists in the evolution of individual and subjective beliefs about the reality.” - Adrian Smith
+
 # Premise
 In the field of AI we often model phenomena with little ability to determine the casual importance of different features within the overall system. This is useful for solving over parameterized optimization problems, but a capability is missing. Is there a mechanism for characterizing a massively overparamterized problem (such as the outcome of large simulations) in a manner that allows for general metrics, insights and utilities, to be extracted from this model. Further, suppose such determinations are pulled from a simulation, are we then able to use them to grant the system awareness of the implications of its own results by feeding these acknowledgements back into the model in a form of fostered self awareness as the model trains.
 
