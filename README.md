@@ -1,7 +1,7 @@
 # General System Parameterizer
 Entropy Analysis of Counterfactual Results as Parameterized by Nonparametric Modeling Optimized Through DNNs.
 
-"Causal Awareness as Driven By Feature Importance"
+Causal Awareness as Driven By Feature Importance
 
 "It is not his possession of knowledge, of irrefutable truth, that makes the man of science, but his persistent and recklessly critical quest for truth." - Karl Popper
 
