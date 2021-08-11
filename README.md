@@ -10,7 +10,11 @@ Causal Awareness as Driven By Feature Importance
 # Premise
 In the field of AI we often model phenomena with little ability to determine the casual importance of different features within the overall system. This is useful for solving over parameterized optimization problems, but a capability is missing. Is there a mechanism for characterizing a massively overparamterized problem (such as the outcome of large simulations) in a manner that allows for general metrics, insights and utilities, to be extracted from this model. Further, suppose such determinations are pulled from a simulation, are we then able to use them to grant the system awareness of the implications of its own results by feeding these acknowledgements back into the model in a form of fostered self awareness as the model trains.
 
-In other words, we seek to extend the existing understanding of bayesian distribution modeling using neural network of a variety of different architectures: (https://en.wikipedia.org/wiki/Bayesian_hierarchical_modeling).
+There is a general epistemological difficulty which arises for this construction. Specifically, if we fail to acknowledge that all joint distributions involved in the calculation of mutual information must inherently be expressed as the variability of those variables not perturbed for the experiment. Realistically this simply means we treat nondeterministic outcomes as additional background noise. It's further important that we understand stocasticity within the model is an inherent source of error. We will treat this as an arbitrary error term for the time being.
+
+In other words, we seek to extend the existing understanding of bayesian distribution modeling using neural networks of a variety of different architectures: (https://en.wikipedia.org/wiki/Bayesian_hierarchical_modeling).
+
+Note: It is important to not ambiguate the following work with latent variable models and the general field of unsupervised learning. The above does not consider this. For more relevent work on the topic of latent space models please consult my study in Unsupervised Causal Association found here: https://github.com/PatrickAllenCooper/unsupervised-causal-association.git
 
 
 
