@@ -18,6 +18,13 @@ Doing so we hope the model will construct what can be characterized as general h
 
 # Installation and Execution
 
+Test using Python 3.9
+
+`Terminal
+pip install torch
+pip install pytorch-lightning
+`
+
 # Formal Method Applied
 We begin with an environment and we perform some run through through a temporally isolated set of events and arrive at a metric to evaluate this performance. The result of the joint distribution of all independent runs into a singular distribution reflects the understanding of the model. We then perturbate individual variables and relate their entropy to the model as whole. The result of these indpendent and cumulative pairings construct what we can describe as the entropy decoder/encoder of the overall model. As the model grows dramatically in terms of its complexiy, that is, as the number of variables trends towards infinity, a new approach must be introduced, this approach is the training of model on the construction of its own distributions. This partial\contingent knowledge development is fascinating as it yields access to particular metrics which I have never seen referenced before in this field. The fundamental idea is to combine distributions in a cohesive manner so as to yield independent outcomes by perturbating a single variable and observing outcomes of the whole. This creates counterfactual awareness and lends the overall transparency as the implicit combinaion of explicit distributions.
 
